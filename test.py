@@ -8,7 +8,7 @@ x = Variable(tensor, requires_grad=True)
 print tensor
 print x
 
-test_list = ['aa', 'bb', 'cc']
+test_list = ['aa', 'bb']
 
 for i in test_list:
     print(i)
